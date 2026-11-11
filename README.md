@@ -1,2 +1,3 @@
 # Eaglercraft-blade-client
-Blade cluent
+a lot of clients did not made it
+
